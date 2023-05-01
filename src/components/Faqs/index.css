@@ -1,0 +1,25 @@
+.com {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  width: 90%;
+  padding: 5% 0px;
+  min-height: 100vh;
+  background-color: #f1f5f8;
+}
+
+.home {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  width: 90%;
+  background-color: white;
+  border-radius: 15px;
+}
+ul {
+  list-style-type: none;
+  padding: 0px;
+  margin: 0px;
+}
