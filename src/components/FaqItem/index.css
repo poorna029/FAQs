@@ -34,7 +34,7 @@ button {
 .para {
   min-height: 20px;
   margin-bottom: 10px;
-  margin: auto;
+  /* margin: auto; */
   margin-top: 0px;
   padding: 0px 10px;
   padding-bottom: 5px;
@@ -43,4 +43,10 @@ button {
 .hr {
   width: 98%;
   color: #fefdfd;
+}
+.down {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  width: 100%;
 }

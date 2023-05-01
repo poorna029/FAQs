@@ -21,7 +21,7 @@ function Faqitem(arg) {
       </div>
 
       {isTrue ? (
-        <div>
+        <div className="down">
           <hr className="hr" />
           <p className="para">{answerText}</p>
         </div>
